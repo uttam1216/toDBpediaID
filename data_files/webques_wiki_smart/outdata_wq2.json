@@ -1,0 +1,627 @@
+{
+    "web_questions_wikidata": [
+        {
+            "id": 0,
+            "webques_id": "WebQTest-18",
+            "question": "what things did martin luther king do",
+            "object": "m.018cwm",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": [
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q76611"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q49773"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q76611"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q5389993"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 1,
+            "webques_id": "WebQTest-57",
+            "question": "what was john quincy adams famous for",
+            "object": "m.02_7l8y",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": []
+                }
+            }
+        },
+        {
+            "id": 2,
+            "webques_id": "WebQTest-228",
+            "question": "what is william taft known for",
+            "object": "m.04gc2",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": [
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q40348"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q3529618"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q40348"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q28640"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 3,
+            "webques_id": "WebQTest-290",
+            "question": "what do christians believe about heaven hell and purgatory",
+            "object": "m.02wvcg4",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": []
+                }
+            }
+        },
+        {
+            "id": 4,
+            "webques_id": "WebQTest-309",
+            "question": "where did dutch language come from",
+            "object": "m.05tjm5h",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": []
+                }
+            }
+        },
+        {
+            "id": 5,
+            "webques_id": "WebQTest-807",
+            "question": "what was herbert hoover best known for",
+            "object": "m.01xljv7",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": []
+                }
+            }
+        },
+        {
+            "id": 6,
+            "webques_id": "WebQTest-956",
+            "question": "what type of government did thomas jefferson prefer",
+            "object": "m.07wf9",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": [
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q42186"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q79913"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q42186"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q155076"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q42186"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q7210356"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 7,
+            "webques_id": "WebQTest-992",
+            "question": "what are serena williams achievements",
+            "object": "m.02f599",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": [
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q6952077"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q618779"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 8,
+            "webques_id": "WebQTest-1016",
+            "question": "what is michael kors best known for",
+            "object": "m.01c979",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": [
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q5322166"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q192581"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q5322166"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q1047113"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q5322166"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q12737077"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 9,
+            "webques_id": "WebQTest-1202",
+            "question": "what was john deere famous for",
+            "object": "m.027v3x",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": [
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q496302"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q134161"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q496302"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q783794"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q496302"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q6881511"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q496302"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q43229"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q496302"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q3563237"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q496302"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q155076"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q496302"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q362482"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q496302"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q4830453"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 10,
+            "webques_id": "WebQTest-1393",
+            "question": "what is warren g harding most known for",
+            "object": "m.012t_z",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": [
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q43845"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q192581"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q43845"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q1047113"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q43845"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q12737077"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q43845"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q1807498"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 11,
+            "webques_id": "WebQTest-1469",
+            "question": "where was the assyrian homeland",
+            "object": "m.04wsz",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": [
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q7204"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q618123"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q7204"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q2221906"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q7204"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q27096213"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q7204"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q15642541"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 12,
+            "webques_id": "WebQTest-1492",
+            "question": "what did isaac newton explain",
+            "object": "m.01kffn",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": [
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q134465"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q408891"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 13,
+            "webques_id": "WebQTest-1605",
+            "question": "what did thomas hobbes do",
+            "object": "m.02h6fbs",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": [
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q4964182"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q192581"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q4964182"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q1047113"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q4964182"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q12737077"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 14,
+            "webques_id": "WebQTest-1908",
+            "question": "what did elliot stabler do",
+            "object": "m.0vjs6",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": [
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q842782"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q192581"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q842782"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q1047113"
+                            }
+                        },
+                        {
+                            "wikiID": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q842782"
+                            },
+                            "type": {
+                                "type": "uri",
+                                "value": "http://www.wikidata.org/entity/Q12737077"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 15,
+            "webques_id": "WebQTest-1930",
+            "question": "what is newcastle metro",
+            "object": "m.02h7d8m",
+            "datatype": {
+                "head": {
+                    "vars": [
+                        "wikiID",
+                        "type"
+                    ]
+                },
+                "results": {
+                    "bindings": []
+                }
+            }
+        }
+    ]
+}
